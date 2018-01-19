@@ -10,6 +10,6 @@ const IndexPage = () => (
     <div></div>
     <Link to="/page-3/">Go to page 3</Link>
   </div>
-)
+);
 
 export default IndexPage
